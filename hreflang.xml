@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+	<loc>https://cnetion.com/</loc>
+	<lastmod>2023-10-14T12:05:21+01:00</lastmod>
+	<changefreq>always</changefreq>
+	<priority>1.0</priority>
+	<xhtml:link rel="alternate" hreflang="en-Gb" href="https://cnetion.com/index.html" />
+	<xhtml:link rel="alternate" hreflang="en-Us" href="https://cnetion.com/index.html" />
+	<xhtml:link rel="alternate" hreflang="en" href="https://cnetion.com/index.html" />
+	<xhtml:link rel="alternate" hreflang="de" href="https://cnetion.com/index.html" />
+</url>
+<url>
+	<loc>https://cnetion.com/index.html</loc>
+	<lastmod>2023-10-14T12:05:21+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cnetion.com/blog.html</loc>
+	<lastmod>2023-10-14T12:05:21+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cnetion.com/portfolio-details.html</loc>
+	<lastmod>2023-10-14T12:05:21+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://cnetion.com/forms/contact.php</loc>
+	<lastmod>2023-10-14T12:05:21+01:00</lastmod>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://cnetion.com/blog-single.html</loc>
+	<lastmod>2023-10-14T12:05:24+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>

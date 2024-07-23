@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+<channel>
+<title>kasus yang di handle lawyer Tirta Law Office</title>
+<link>https://www.tirtalawoffice.com/images/video-wanhi.mp4</link>
+<description>MRSS Example</description>
+  <item xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/">
+    <link>https://www.tirtalawoffice.com/images/video-wanhi.mp4</link>
+    <media:content url="https://www.tirtalawoffice.com/images/video-wanhi.mp4" fileSize="405321"
+      type="video/mp4" height="240" width="320" duration="120" medium="video" isDefault="true">
+      <media:player url="https://www.tirtalawoffice.com/images/video-wanhi.mp4" />
+      <media:title>Konsultasi Gratis</media:title>
+      <media:description>Konsultasikan Masalah Anda Secara Gratis, Kami Siap Membantu Anda</media:description>
+      <media:thumbnail url="https://www.tirtalawoffice.com/images/wanhi.PNG" height="120" width="160"/>
+      <media:price price="0" currency="IDR" />
+      <media:price type="subscription" />
+    </media:content>
+    <media:restriction relationship="allow" type="country">id</media:restriction>
+    <dcterms:valid xmlns:dcterms="http://purl.org/dc/terms/">end=2025-10-15T00:00+01:00; scheme=W3C-DTF</dcterms:valid>
+    <dcterms:type>live-video</dcterms:type>
+  </item>
+</channel>
+</rss>
